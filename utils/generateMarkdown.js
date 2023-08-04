@@ -68,7 +68,10 @@ ${renderLicenseBadge}
 
 ${data.features}
 
-  `;
+## Questions
+
+For questions, please reach out to me at [${data.github}](https://github.com/${data.github}) or ${data.email}.
+    `;
   }
   
   module.exports = generateMarkdown;
