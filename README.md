@@ -23,11 +23,13 @@ To start using this application, users must first git clone this repository and 
 To use this application, follow the steps below:
 
 1. Right-click on `index.js` in your VS Code editor and open up the integrated terminal.
+
 - ![Alt text](ezgif.com-video-to-gif.gif)
 2. Run the command `node index.js` in the terminal to start the application.
 - ![Alt text](<ezgif.com-crop (1).gif>)
 3. Follow the prompt questions in the terminal to generate your README file. The generated README file will be saved in the current directory.
 - ![Alt text](<ezgif.com-video-to-gif (2).gif>)
+
 
 ## Credits
 
@@ -41,5 +43,4 @@ A special thanks to Node.Js which allowed this application to happen.
 ## Questions
 
 For questions, please reach out to me at [Albyhua](https://github.com/Albyhua) or [Albyhua@gmail.com](mailto:Albyhua@gmail.com).
-
 
