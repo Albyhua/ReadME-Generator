@@ -56,6 +56,16 @@ function init() {
         message: 'List features that your project has.',
         name: 'features',
       },
+      {
+        type: 'input',
+        message: 'What is your GitHub username?',
+        name: 'github',
+      },
+      {
+        type: 'input',
+        message: 'What is your email address?',
+        name: 'email',
+      }
     ])
     .then(answers => { // once user is done answering questions, this line of code will generate a README with their responses.
       writeToFile('README.md', answers); 
