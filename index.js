@@ -68,7 +68,7 @@ function init() {
       }
     ])
     .then(answers => { // once user is done answering questions, this line of code will generate a README with their responses.
-      writeToFile('README.md', answers); 
+      writeToFile('READMEexample.md', answers); 
     })
 
 }
